@@ -1,0 +1,413 @@
+html, body {
+    margin: 0%;
+    Padding: 0%;
+
+
+}
+body#home {
+    background-color: rgb(248, 199, 216);
+}
+
+body {
+        font-size:40px;
+        width:100%;
+        text-align: center;
+
+}
+.mainHeader{
+    color: rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    font-size:25px;
+    font-weight: 700;
+}
+
+section.container{
+    width: 450px;
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 8px;
+}
+
+
+.column{
+    flex: 48%;
+    padding: 0 0 0 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ 
+
+    
+
+}
+
+.tears {
+    flex: 40%;
+    padding: 0;
+    margin: 0;
+}
+
+.tears img {
+    display:block;
+    width: 100%;
+}
+
+.column h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    color: rgb(230,137,169);
+}
+
+#Pressure{
+    background-color: rgb(119, 169, 178);
+    
+}
+body {
+    font-family: 'Press Start 2P', cursive; 
+    font-size:25px;
+    color: rgb(248, 216, 165);
+    width:100%;
+    text-align: center;
+}
+.mainHeaderP{
+    color: rgb(248, 216, 165);
+    font-family: 'Press Start 2P', cursive;
+    font-size:25px;
+    font-weight: 700;
+}
+
+section.container{
+    width: 450px;
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+
+
+.column{
+    flex: 48%;
+    padding: 0 0 0 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tears {
+    flex: 40%;
+    padding: 0;
+    margin: 0;
+}
+
+.tears img {
+    display:block;
+    width: 100%;
+}
+
+.column h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    color: rgb(230,137,169);
+}
+
+/*___________________________________________________________*/
+
+
+body {
+       font-family: 'Press Start 2P', cursive; 
+    font-size:25px;
+    color: rgb(248, 216, 165);
+        width:100%;
+        text-align: center;
+}
+
+#Worries{
+    background-color: rgb(37, 44, 40);  
+}
+
+.mainHeaderW{
+     color: rgb(248, 216, 165);
+    font-family: 'Press Start 2P', cursive;
+    font-size:25px;
+    font-weight: 700;
+}
+
+section.container{
+    width: 450px;
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+.column{
+    flex: 48%;
+    padding: 0 0 0 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tears {
+    flex: 40%;
+    padding: 0;
+    margin: 0;
+}
+
+.tears img {
+    display:block;
+    width: 100%;
+}
+/*______section_______*/
+
+.column h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    color: rgb(248, 216, 165)
+}
+.Wimg {
+    flex: 7%;
+    max-width:7%;
+    padding: 0;
+    margin: 0;
+}
+
+.Wimg:first-of-type {
+    padding-left: 15%;
+
+}
+
+.Wimg img {
+    display:block;
+    width: 100%;
+}
+
+.Wtxt {
+    flex: 50%;
+    max-width: 60%;
+    font-size: 1.12em;
+}
+/*_____________diff page_____________________*/
+
+section.bsContainer{
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    width: 90%;
+   
+}
+
+
+.Pimg {
+    flex: 7%;
+    max-width:7%;
+    padding: 0;
+    margin: 0;
+}
+
+.Pimg:first-of-type {
+    padding-left: 18%;
+
+}
+
+.Pimg img {
+    display:block;
+    width: 100%;
+}
+
+.Ptxt {
+    flex: 50%;
+    max-width: 50%;
+    font-size: 1.12em;
+}
+/*_____________diff page_____________________*/
+
+#Raleigh{
+    background-color: rgb(212,164,92);  
+}
+
+.mainHeaderR{
+     color: rgb(248, 216, 165);
+    font-family: 'Press Start 2P', cursive;
+    font-size:25px;
+    font-weight: 700;
+}
+
+section.container{
+    width: 450px;
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+.column{
+    flex: 48%;
+    padding: 0 0 0 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tears {
+    flex: 40%;
+    padding: 0;
+    margin: 0;
+}
+
+.tears img {
+    display:block;
+    width: 100%;
+}
+.Rimg {
+    flex: 7%;
+    max-width:7%;
+    padding: 0;
+    margin: 0;
+}
+
+.Rimg:first-of-type {
+    padding-left: 18%;
+
+}
+
+.Rimg img {
+    display:block;
+    width: 100%;
+}
+
+.Rtxt {
+    flex: 55%;
+    max-width: 55%;
+    font-size: 1.12em;
+}
+
+/*_____________diff page_____________________*/
+
+#Party{
+    background-color: rgb(70, 70, 71);  
+}
+
+.mainHeaderF{
+     color: rgb(248, 216, 165);
+    font-family: 'Press Start 2P', cursive;
+    font-size:25px;
+    font-weight: 700;
+}
+
+section.container{
+    width: 450px;
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+.column{
+    flex: 48%;
+    padding: 0 0 0 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tears {
+    flex: 40%;
+    padding: 0;
+    margin: 0;
+}
+
+.tears img {
+    display:block;
+    width: 100%;
+}
+.Fimg {
+    flex: 7%;
+    max-width:7%;
+    padding: 0;
+    margin: 0;
+}
+
+.Fimg:first-of-type {
+    padding-left: 24%;
+
+}
+
+.Fimg img {
+    display:block;
+    width: 100%;
+}
+
+.Ftxt {
+    flex: 50%;
+    max-width: 40%;
+    font-size: 1.12em;
+}
+/*_____________diff page_____________________*/
+#Ari{
+    background-color: rgb(108, 25, 25);  
+}
+
+.mainHeaderA{
+     color: rgb(248, 216, 165);
+    font-family: 'Press Start 2P', cursive;
+    font-size:25px;
+    font-weight: 700;
+}
+
+section.container{
+    width: 450px;
+    background-size: cover;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+.column{
+    flex: 48%;
+    padding: 0 0 0 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tears {
+    flex: 40%;
+    padding: 0;
+    margin: 0;
+}
+
+.tears img {
+    display:block;
+    width: 100%;
+}
+.Aimg {
+    flex: 7%;
+    max-width:7%;
+    padding: 0;
+    margin: 0;
+}
+
+.Aimg:first-of-type {
+    padding-left: 18%;
+
+}
+
+.Aimg img {
+    display:block;
+    width: 100%;
+}
+
+.Atxt {
+    flex: 50%;
+    max-width: 50%;
+    font-size: 1.12em;
+}
